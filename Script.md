@@ -18,7 +18,7 @@ Billy had heard the sound before, but today there was a new sound, sort of a cro
 He stopped to listen and noticed a heavy wooden door in the zoo wall was ajar.
 
 Normally Billy would leave well enough alone, but he was worried that an animal might escape.
-He stuck his head in the door, the color of the foliage was intense greens, browns and chartreuse. He called out for a zoo keeper but got no response.
+He stuck his head in the door, the color of the foliage was intense greens, browns and chartreuse. He called out for a zoo keeper, and the Zookeeper came running around the corner.  The Zookeeper said all the animals roam the zoo at night.
 The smell of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
@@ -31,3 +31,4 @@ The end.
 * Unicorn King: Alan
 * Friendly Koala: Adriana
 * Janitor: Mitchell
+* Zookeeper: Sarah
